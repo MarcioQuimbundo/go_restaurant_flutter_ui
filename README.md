@@ -3,7 +3,7 @@
 <img src="assets/screenshot/0.jpeg">
 
 ## ScreenShots:
-<img  height="480px" style="margin-right:10px;" src="assets/screenshot/0.jpeg">&nbsp;&nbsp;<img height="480px" style="margin-right:10px;"  src="assets/screenshot/0.jpeg">
+<img  height="480px" style="margin-right:10px;" src="assets/screenshot/1.jpg">&nbsp;&nbsp;<img height="480px" style="margin-right:10px;"  src="assets/screenshot/2.jpg">
 
 ## I took the original design prototype in Linkedin made by Tiago Luchtenberg
 https://www.linkedin.com/posts/tiago-luchtenberg-0b9a3b97_uiux-uidesign-uxdesign-activity-6676613806258475008-jh3i
